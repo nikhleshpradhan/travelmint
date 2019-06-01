@@ -1,0 +1,522 @@
+2019-04-25 10:43:44,000 INFO  [BaseClass] Base Class Fail 
+2019-04-25 10:43:44,011 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 10:44:55,639 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 10:44:55,646 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 11:44:42,314 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 11:44:42,336 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 12:46:41,834 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 12:46:41,843 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 12:47:21,077 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 12:47:21,085 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 12:52:58,276 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 12:52:58,298 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 12:54:27,435 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 12:54:27,442 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:10:02,208 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:10:02,225 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:10:02,252 INFO  [BaseClass] java.lang.IllegalArgumentException: Cannot find elements with a null id attribute. 
+2019-04-25 13:13:52,331 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:13:52,340 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:13:52,926 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:14:36,822 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:14:36,830 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:14:37,400 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:19:11,116 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:19:11,124 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:19:11,689 INFO  [Login] All Element found on login page  
+2019-04-25 13:19:50,505 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:19:50,515 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:19:55,145 INFO  [Login] All Element found on login page  
+2019-04-25 13:24:19,824 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:24:19,832 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:24:24,783 INFO  [Login] All Element found on login page  
+2019-04-25 13:27:40,487 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:27:40,496 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:27:50,379 INFO  [Login] All Element found on login page  
+2019-04-25 13:28:28,222 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 13:28:28,230 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 13:28:28,807 INFO  [Login] All Element found on login page  
+2019-04-25 14:19:58,963 INFO  [BaseClass] Youtube home page launch 
+2019-04-25 14:19:58,972 INFO  [BaseClass] Repository get logged successfully 
+2019-04-25 14:19:59,844 INFO  [Login] All Element found on login page  
+2019-04-25 14:19:59,870 INFO  [Login failed] Check login details  
+2019-04-26 12:47:58,855 INFO  [BaseClass] Youtube home page launch 
+2019-04-26 12:47:58,897 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 12:48:03,132 INFO  [Login] All Element found on login page  
+2019-04-26 13:28:23,453 INFO  [BaseClass] Youtube home page launch 
+2019-04-26 13:28:23,462 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 13:28:28,236 INFO  [Login] All Element found on login page  
+2019-04-26 13:28:28,261 INFO  [Login Success] Admin dashboard login  
+2019-04-26 13:29:23,416 INFO  [BaseClass] Youtube home page launch 
+2019-04-26 13:29:23,425 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 13:29:27,674 INFO  [Login] All Element found on login page  
+2019-04-26 13:29:27,714 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 15:23:52,761 INFO  [BaseClass] Youtube home page launch 
+2019-04-26 15:23:52,770 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:24:59,824 INFO  [BaseClass] Youtube home page launch 
+2019-04-26 15:24:59,832 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:47:17,031 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:47:17,040 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:48:00,721 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:48:00,731 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:48:04,663 INFO  [Login] All Element found on login page  
+2019-04-26 15:48:04,685 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 15:49:02,843 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:49:02,853 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:49:06,990 INFO  [Login] All Element found on login page  
+2019-04-26 15:49:07,024 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 15:50:21,178 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:50:21,186 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:50:53,060 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:50:53,070 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:50:57,436 INFO  [Login] All Element found on login page  
+2019-04-26 15:50:57,471 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 15:58:31,910 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:58:31,918 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 15:58:36,756 INFO  [Login] All Element found on login page  
+2019-04-26 15:58:36,793 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 15:59:59,481 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 15:59:59,490 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:00:09,212 INFO  [Login] All Element found on login page  
+2019-04-26 16:00:09,243 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:01:46,561 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:01:46,569 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:01:55,490 INFO  [Login] All Element found on login page  
+2019-04-26 16:01:55,523 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:02:38,516 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:02:38,525 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:02:47,525 INFO  [Login] All Element found on login page  
+2019-04-26 16:02:47,554 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:04:14,271 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:04:14,280 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:04:22,945 INFO  [Login] All Element found on login page  
+2019-04-26 16:04:22,982 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:14:11,601 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:14:11,610 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:14:20,774 INFO  [Login] All Element found on login page  
+2019-04-26 16:14:20,802 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:16:30,866 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:16:30,874 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:16:45,124 INFO  [Login] All Element found on login page  
+2019-04-26 16:16:45,155 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:17:51,322 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:17:51,333 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:18:04,544 INFO  [Login] All Element found on login page  
+2019-04-26 16:18:04,571 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:19:37,692 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:19:37,701 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:19:49,148 INFO  [Login] All Element found on login page  
+2019-04-26 16:19:49,177 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:20:41,184 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:20:41,194 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:21:04,424 INFO  [Login] All Element found on login page  
+2019-04-26 16:21:04,452 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:22:06,856 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:22:06,865 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:22:17,677 INFO  [Login] All Element found on login page  
+2019-04-26 16:22:17,707 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:25:59,165 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:25:59,173 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:26:08,906 INFO  [Login] All Element found on login page  
+2019-04-26 16:26:08,939 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:29:02,569 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:29:02,579 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:29:11,891 INFO  [Login] All Element found on login page  
+2019-04-26 16:29:11,918 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:36:51,929 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:36:51,939 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:37:01,535 INFO  [Login] All Element found on login page  
+2019-04-26 16:37:01,569 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:38:40,624 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:38:40,633 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:38:49,629 INFO  [Login] All Element found on login page  
+2019-04-26 16:38:49,660 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:42:23,808 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:42:23,817 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:42:23,844 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-26 16:42:23,870 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-26 16:44:44,033 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:44:44,041 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:44:44,066 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-26 16:51:04,244 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:51:04,253 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:51:18,129 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:51:18,147 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:51:26,959 INFO  [Login] All Element found on login page  
+2019-04-26 16:51:26,990 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:51:50,800 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:51:50,816 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:54:25,855 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:54:25,866 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:54:35,203 INFO  [Login] All Element found on login page  
+2019-04-26 16:54:35,232 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 16:54:58,959 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:54:58,967 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:59:28,059 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 16:59:28,068 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 16:59:37,458 INFO  [Login] All Element found on login page  
+2019-04-26 16:59:37,488 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:00:01,194 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:00:01,207 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:00:46,506 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:00:46,514 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:00:55,774 INFO  [Login] All Element found on login page  
+2019-04-26 17:00:55,807 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:02:10,827 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:02:10,835 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:02:19,982 INFO  [Login] All Element found on login page  
+2019-04-26 17:02:20,014 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:27:39,623 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:27:39,632 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:27:43,718 INFO  [Login failed ] org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64040}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 16826c45e7c0029fd26dd92de280836c
+*** Element info: {Using=id, value=SecretKey} 
+2019-04-26 17:38:35,382 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:38:35,391 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:38:45,431 INFO  [Login] All Element found on login page  
+2019-04-26 17:38:45,458 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:40:29,282 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:40:29,290 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:40:41,613 INFO  [Login] All Element found on login page  
+2019-04-26 17:40:41,644 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:50:26,757 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:50:26,767 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:50:36,552 INFO  [Login] All Element found on login page  
+2019-04-26 17:50:36,580 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:51:30,720 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:51:30,731 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:51:40,163 INFO  [Login] All Element found on login page  
+2019-04-26 17:51:40,187 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:57:57,240 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:57:57,249 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:58:06,313 INFO  [Login] All Element found on login page  
+2019-04-26 17:58:06,350 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 17:59:16,553 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 17:59:16,561 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 17:59:25,649 INFO  [Login] All Element found on login page  
+2019-04-26 17:59:25,683 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:15:45,621 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:15:45,629 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:15:55,290 INFO  [Login] All Element found on login page  
+2019-04-26 18:15:55,320 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:18:04,967 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:18:04,975 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:18:14,040 INFO  [Login] All Element found on login page  
+2019-04-26 18:18:14,065 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:20:50,884 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:20:50,892 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:20:59,881 INFO  [Login] All Element found on login page  
+2019-04-26 18:20:59,913 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:23:39,230 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:23:39,241 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:25:52,413 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:25:52,424 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:26:01,606 INFO  [Login] All Element found on login page  
+2019-04-26 18:26:01,634 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:26:25,411 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:26:25,421 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:28:38,513 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:28:38,524 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:28:48,120 INFO  [Login] All Element found on login page  
+2019-04-26 18:28:48,154 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:29:11,863 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:29:11,876 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:29:51,319 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:29:51,328 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:30:02,388 INFO  [Login] All Element found on login page  
+2019-04-26 18:30:02,424 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:30:26,074 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:30:26,090 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:31:16,751 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:31:16,760 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:31:25,635 INFO  [Login] All Element found on login page  
+2019-04-26 18:31:25,669 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:33:54,821 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:33:54,830 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:34:03,540 INFO  [Login] All Element found on login page  
+2019-04-26 18:34:03,575 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:36:59,529 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:36:59,542 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:38:09,819 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:38:09,830 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:38:19,428 INFO  [Login] All Element found on login page  
+2019-04-26 18:38:19,464 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:40:49,511 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:40:49,522 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:48:46,552 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:48:46,563 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:49:34,188 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:49:34,197 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:49:43,512 INFO  [Login] All Element found on login page  
+2019-04-26 18:49:43,541 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:52:03,952 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:52:03,962 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:52:13,063 INFO  [Login] All Element found on login page  
+2019-04-26 18:52:13,099 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:52:55,201 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:52:55,211 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:53:04,686 INFO  [Login] All Element found on login page  
+2019-04-26 18:53:04,714 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:54:32,842 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:54:32,852 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:54:41,776 INFO  [Login] All Element found on login page  
+2019-04-26 18:54:41,805 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:56:34,617 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:56:34,625 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:56:43,619 INFO  [Login] All Element found on login page  
+2019-04-26 18:56:43,651 INFO  [Login Success] Sales Dashboard is open  
+2019-04-26 18:58:29,272 INFO  [BaseClass] TravelMint Login page open 
+2019-04-26 18:58:29,282 INFO  [BaseClass] Repository get logged successfully 
+2019-04-26 18:58:38,180 INFO  [Login] All Element found on login page  
+2019-04-26 18:58:38,205 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:21:04,672 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:21:04,724 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:21:28,034 INFO  [Login] All Element found on login page  
+2019-04-29 10:21:28,064 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:21:53,135 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:21:53,148 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:22:58,256 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:22:58,265 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:24:15,277 INFO  [Login] All Element found on login page  
+2019-04-29 10:24:39,170 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:24:39,183 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:25:17,868 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:25:17,882 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:27:22,259 INFO  [Login] All Element found on login page  
+2019-04-29 10:27:22,295 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:31:45,425 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:31:45,435 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:32:13,522 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:32:13,535 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:32:57,486 INFO  [Login] All Element found on login page  
+2019-04-29 10:32:57,517 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:34:59,996 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:35:00,006 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:35:53,335 INFO  [Login] All Element found on login page  
+2019-04-29 10:35:53,371 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:43:39,845 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:43:39,854 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:44:15,469 INFO  [Login] All Element found on login page  
+2019-04-29 10:44:15,506 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 10:45:34,788 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 10:45:34,796 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 10:49:23,646 INFO  [Login] All Element found on login page  
+2019-04-29 11:10:26,260 INFO  [BaseClass] TravelMint Login page open 
+2019-04-29 11:10:26,269 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 11:10:39,016 INFO  [Login] All Element found on login page  
+2019-04-29 11:10:39,050 INFO  [Login Success] Sales Dashboard is open  
+2019-04-29 13:34:21,506 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 13:34:26,609 INFO  [Login failed ] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SecretKey"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62562}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 4e1e54e7594a2f7ffb9cd7538b709cc4
+*** Element info: {Using=id, value=SecretKey} 
+2019-04-29 14:08:11,728 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:08:16,841 INFO  [Login failed ] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SecretKey"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64252}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 87fe7e1eceb9464437829be417e4c692
+*** Element info: {Using=id, value=SecretKey} 
+2019-04-29 14:10:19,731 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:10:34,425 INFO  [Login] All Element found on login page  
+2019-04-29 14:20:07,115 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:20:24,125 INFO  [Login] All Element found on login page  
+2019-04-29 14:37:08,618 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:37:25,944 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 14:38:57,732 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:39:12,503 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 14:39:52,484 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:40:06,241 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 14:46:46,827 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:46:49,540 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:47:06,285 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 14:53:23,301 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:53:25,369 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:53:57,703 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 14:54:13,036 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:08:59,680 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:09:14,789 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:16:29,622 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:16:44,985 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:29:17,846 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:30:06,019 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:30:22,822 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:30:24,898 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:34:12,679 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:34:12,758 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-29 15:36:12,823 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:36:29,944 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:38:52,052 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:38:52,198 INFO  [Login failed ] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59612}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: bb318149c8c8f83d31cc1921a3c2bcb0
+*** Element info: {Using=id, value=SecretKey} 
+2019-04-29 15:39:02,786 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:39:19,706 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-29 15:41:07,852 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:41:07,886 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-29 15:43:13,077 INFO  [BaseClass] Repository get logged successfully 
+2019-04-29 15:43:13,128 INFO  [Login failed ] java.lang.NullPointerException 
+2019-04-30 14:45:34,935 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 14:45:52,845 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 14:49:25,465 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 14:50:11,918 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 14:51:47,379 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 14:52:05,484 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 15:50:29,741 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 15:50:46,201 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 15:50:46,224 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:34:41,324 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:34:58,404 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 16:34:58,419 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:35:57,042 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:36:17,212 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 16:36:17,230 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:38:26,779 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:38:49,271 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 16:38:49,285 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:41:34,308 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:41:52,875 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 16:41:52,900 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:44:15,968 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 16:44:37,865 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 16:44:37,902 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:12:59,003 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:13:17,580 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:13:17,604 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:13:41,265 INFO  [Login failed ] org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "span"
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: driver.version: unknown 
+2019-04-30 17:17:11,820 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:17:14,704 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:17:30,919 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:17:30,935 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:20:05,252 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:20:08,152 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:20:24,555 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:20:24,576 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:20:51,154 INFO  [Login failed ] org.openqa.selenium.WebDriverException: unknown error: cannot focus element
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61161}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: d921fda3cd0f5ea3a599ca5410757576 
+2019-04-30 17:27:04,983 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:27:07,855 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:27:26,866 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:27:26,885 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:27:55,648 INFO  [Login failed ] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0 
+2019-04-30 17:34:25,699 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:34:29,450 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:34:48,019 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:34:48,040 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:37:42,091 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:37:44,996 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:38:06,317 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:38:06,338 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:40:46,396 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:40:49,488 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:41:09,991 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:41:10,001 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:43:07,265 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:43:10,170 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 17:43:26,728 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 17:43:26,748 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:10:13,569 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:10:17,305 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:10:32,634 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:10:32,648 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:11:26,442 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:11:29,541 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:11:44,666 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:11:44,682 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:12:37,438 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:12:40,396 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:12:55,830 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:12:55,854 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:13:19,910 INFO  [Login failed ] org.openqa.selenium.WebDriverException: unknown error: Element <select class="form-control select2-hidden-accessible" id="AgentId" name="AgentId" required="required" tabindex="-1" aria-hidden="true" style="width: auto;"></select> is not clickable at point (232, 489). Other element would receive the click: <div class="form-group col-sm-4" data-agent-type="">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50069}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: a724fe80a209518f6f6f0ef7ca32ddcd 
+2019-04-30 18:14:36,565 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:14:39,527 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:15:02,015 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:15:02,036 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:15:25,693 INFO  [Login failed ] org.openqa.selenium.WebDriverException: unknown error: Element <select class="form-control select2-hidden-accessible" id="AgentId" name="AgentId" required="required" tabindex="-1" aria-hidden="true" style="width: auto;"></select> is not clickable at point (232, 489). Other element would receive the click: <div class="form-group col-sm-4" data-agent-type="">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50194}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 906cf20b7f1fa2493e2ec18f6a44e1b7 
+2019-04-30 18:16:15,818 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:16:18,723 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:16:35,132 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:16:35,153 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:17:03,837 INFO  [Login failed ] org.openqa.selenium.WebDriverException: unknown error: Element <select class="form-control select2-hidden-accessible" id="AgentId" name="AgentId" required="required" tabindex="-1" aria-hidden="true" style="width: auto;"></select> is not clickable at point (232, 489). Other element would receive the click: <div class="form-group col-sm-4" data-agent-type="">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'SUDHIR', ip: '192.168.1.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Admin\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50316}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 4f413930539203ed934f5dac8caef3b6 
+2019-04-30 18:17:43,426 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:17:46,318 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:18:05,372 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:18:05,392 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:18:35,843 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:18:38,776 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:18:54,718 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:18:54,745 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:21:23,252 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:21:26,145 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:21:41,684 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:21:41,703 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:42:38,969 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:42:42,472 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:42:59,931 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:42:59,961 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:43:38,863 INFO  [Login failed ] java.lang.IndexOutOfBoundsException: Index: 1, Size: 1 
+2019-04-30 18:44:41,959 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:44:45,320 INFO  [BaseClass] Repository get logged successfully 
+2019-04-30 18:45:02,454 INFO  [Sales Login] All Element found on login page and sales dasboard is open  
+2019-04-30 18:45:02,476 INFO  [BaseClass] Repository get logged successfully 

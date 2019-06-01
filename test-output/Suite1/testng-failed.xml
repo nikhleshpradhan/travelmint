@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Command line test d52d9a9f-24da-4f17-887b-07928963b8e6(failed)">
+    <classes>
+      <class name="com.travelmint.TestScripts.TC1">
+        <methods>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.travelmint.TestScripts.TC1 -->
+      <class name="com.travelmint.TestScripts.SalesLtour">
+        <methods>
+          <include name="oTour"/>
+        </methods>
+      </class> <!-- com.travelmint.TestScripts.SalesLtour -->
+    </classes>
+  </test> <!-- Command line test d52d9a9f-24da-4f17-887b-07928963b8e6(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
